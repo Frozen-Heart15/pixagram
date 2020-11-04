@@ -23,8 +23,7 @@ const Title = () => {
   const classes = useStyles();
 
   return (
-    <div >
-      <h1 className={classes.heading1}>PixaGram</h1>
+    <div>
       <h2 className={classes.heading2} >Your Pictures</h2>
       <p className={classes.subText} >Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
